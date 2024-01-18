@@ -11,4 +11,4 @@ And this specific repository contains documentation about the National Instrumen
 <br/>
 &nbsp;
 
-[![VHDL & Verilog](http://dicer0.com/wp-content/uploads/2024/01/p_LabVIEW_MarkI.png)](https://dicer0.com/#skills)
+[![LabVIEW](http://dicer0.com/wp-content/uploads/2024/01/p_LabVIEW_MarkI.png)](https://dicer0.com/#skills)
